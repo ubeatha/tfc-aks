@@ -1,4 +1,6 @@
-# tf-template
+# tfc-aks
+
+This is a terraform configuration to create/manage Azure Kubernetes Service clusters and supporting resources.
 
 <!--- BEGIN_TF_DOCS --->
 ## Requirements
